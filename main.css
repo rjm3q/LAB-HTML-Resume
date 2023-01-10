@@ -1,3 +1,26 @@
 body{
   background-color: cornflowerblue;
 }
+
+h2{
+  color: rgb(226, 150, 165);
+}
+
+article{
+  padding: 60px pink;
+}
+
+#articleOne{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+border: 1px dotted yellowgreen;
+}
+
+#articletwo{
+font-family: 'Times New Roman', Times, serif;
+border: 1px solid yellowgreen;
+}
+
+#articltree{
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+border: 1px dashed yellowgreen;
+}
